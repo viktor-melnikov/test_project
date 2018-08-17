@@ -1,0 +1,1 @@
+{"version":3,"sources":["style.less"],"names":[],"mappings":"AAAA,SACE,OAAM;EACJ,gBAAA","file":"build.css","sourcesContent":["#transfer {\n  button[type=\"submit\"] {\n    margin-top: 30px;\n  }\n}"]}

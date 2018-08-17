@@ -1,0 +1,25 @@
+{
+  "name": "test_project",
+  "description": "",
+  "main": "gulpfile.js",
+  "authors": [
+    "Viktor Melnikov <vik.melnikov@gmail.com>"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/vendor/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome": "^5.2.0",
+    "bootstrap": "^4.1.2",
+    "jquery": "^3.3.1",
+    "select2": "^4.0.5",
+    "jquery-validation": "^1.17.0"
+  }
+}
